@@ -1,0 +1,8 @@
+pandas
+numpy
+sqlalchemy
+streamlit
+plotly
+faker
+openpyxl
+watchdog
